@@ -1,6 +1,6 @@
 ### 😎 Hello !! 😎
 
-Meu nome é Christian Einhardt, sou desenvolvedor back-end, e atualmente curso Sistemas de Informação na FURG.
+Meu nome é Christian Einhardt, sou desenvolvedor back-end, formado em informática para internet pelo IFRS e atualmente curso Sistemas de Informação na FURG.
 
 ❤️ Back-end lover ❤️ 
 
